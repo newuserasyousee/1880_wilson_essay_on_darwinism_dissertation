@@ -1,0 +1,8 @@
+file_name,unique_id,leaf_number,page_number,content_type,text_density,binding_visibility,paper_condition,opening,ink_color,notes
+wilson_darwinism_dissertation_p01,WIL_DAR_1880_001,1,1,title_page,sparse,clear,faded,centered_title,gray,"ink severely faded to gray to as if pencil marks, likely due to exposure"
+wilson_darwinism_dissertation_p02,WIL_DAR_1880_002,3,5,body_text,dense,shadow,slight yellowing,heading_with_quotation,brown,
+wilson_darwinism_dissertation_p03,WIL_DAR_1880_003,4,7,body_text,dense,shadow,slight yellowing,new_sentence ,brown,
+wilson_darwinism_dissertation_p04,WIL_DAR_1880_004,5,9,body_text,dense,shadow,slight yellowing,continuation_of_sentence ,brown,
+wilson_darwinism_dissertation_p05,WIL_DAR_1880_005,6,11,body_text,dense,shadow,slight yellowing,continuation_of_sentence ,brown,
+wilson_darwinism_dissertation_p06,WIL_DAR_1880_006,7,13,body_text,dense,shadow,slight yellowing,continuation_of_sentence ,brown,
+wilson_darwinism_dissertation_p07,WIL_DAR_1880_007,8,15,end_page,partial,shadow,slight yellowing,continuation_of_sentence ,brown,
